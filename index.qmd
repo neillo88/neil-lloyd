@@ -3,7 +3,7 @@ title: "Welcome"
 image: images/neil.jpg
 about:
   template: solana
-  image-width: 20em
+  image-width: 10em
   links:
     - icon: buildings
       text: Warwick Page
@@ -11,12 +11,9 @@ about:
     - icon: envelope-at
       text: Warwick Email
       url: "mailto:neil.lloyd@warwick.ac.uk"      
-    - icon: file-earmark-pdf
-      text: Academic CV
-      href: documents/academic-cv-april-2025.pdf
     - icon: linkedin
       text: LinkedIn
-      url: "https://linkedin.com/in/neil-lloyd-65a12834/"
+      url: "www.linkedin.com/in/neil-lloyd-65a12834"
     - icon: github
       text: GitHub
       url: "https://github.com/neillo88"    
@@ -38,8 +35,9 @@ Continued engagement in primary research helps me keep in touch with the latest 
 I also believe that what we should use our research skills to study and improve our academic programmes. At Warwick, I am a lead member of the Student Progression Working Group. We collect and analyze departmental data on student performance and engagement to inform the design of our programmes and curriculum. The group has been instrumental in moving the department and wider university towards more evidence-based practice. 
 
 
-
 ---
+
+[Download the Academic CV](documents/academic-cv-april-2025.pdf)
 
 ### Academic Experience
 
