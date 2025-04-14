@@ -1,0 +1,43 @@
+---
+title: "Ongoing Projects"
+format: html
+---
+
+The following projects form part of a wide interest in empirical microeconomic topics from labour, development, and health economics. 
+
+## Xenophobia and Foreign Entrepreneurship in South Africa
+
+> This is collaboration with [Jonas Hjort](https://sites.google.com/site/jonashjort/) (Professor of Economics University College London and University of Oslo) and Alexander Bjerck-Hagen (Predoctoral Fellow, Norwegian School of Economics). 
+
+This project brings together data on geo-coded xenophobic events (from [Xenowatch](https://www.xenowatch.ac.za/)) in South Africa with information spatial and labour-market allocation of immigrants (SA CENSUS), aggregate immigrant flows (UNDESA), source-country entrepreneurial intent (ILO), and immigrant welfare (Quality of Life Survey). 
+
+The project is inspired by the observation that the majority of (recorded) xenophobic events in South Africa involve foreign owned businesses. Indeed, Operation Dudula - a community organization, recently turned political party - lists foreign owned businesses as one of its primary targets. Traditional economic theory would suggest that this may be the result of competition in the small/informal business sector. However, native South Africans had very low levels of participation in self-employment the rapid the period of rapid immigration in the mid 2000s. This suggests that labour market competition is not necessarily the source of tension.
+
+We exploit variation in the entrepreneurial intent of immigrant source countries to show that the violence against foreign businesses is a response to an influx of foreigners (from non-neighbourin countries) and not foreign owned businesses. We find no evidence of a crowding out of native businesses. This suggests that the reason for attacks on foreign businesses is more likely to be explained by opportunism: foreign businesses are vulnerable and there are illicit profits to be had from the raiding of businesses.  
+
+*We currently preparing a presentation of our latest results.*
+
+
+## Changing body weight of adolescents in Great Britain: The role of fast-food access
+
+> This is collaboration with [Wiji Arulampalam](https://warwick.ac.uk/fac/soc/economics/staff/swarulampalam/) (Emiritus Professor, University of Warwick), [Yu Aoki](https://www.abdn.ac.uk/people/y.aoki) (Lecturer, University of Aberdeen), and Sushil Mathew (PhD Student, Imperial College London).
+
+This project tests whether the proximity of an individual's school to fast food impacts obesity. We match the school location of Millenium Cohort Study participants to known locations of fish-and-chips, big fast food, and smaller fast food stores. Our identification strategy exploits the change in school location associated with the transition from primary to senior school. Crucially, we use earlier waves of the study to identify differences in the zBMI trajectory of students, allowing us to relax the parallel trends assumption across students. Our results find significant relationship between zBMI and school-based exposure to fish-and-chips and large fast food establishments.
+
+*Having presented the paper a few times, we are currently writing up the latest version of our results.*
+
+## Low Entrepreneurial Intent: A Legacy of South Africa's Mining Monopsony
+
+**[Currently on hold]**
+
+> This is collaboration with [Juan Felipe Riano](https://www.juanfeliperiano.com/) (Assistant Professor, Georgetown University). 
+
+This project investigates the hypothesis that the low levels of self-employment and informal sector activity in contemporary South Africa can be linked to the legacy of labour recruitment in South Africa's gold mining industry. At the outset of the Witwatersrand gold rush (1886) labour was largely sourced from outside of South Africa: Southern Mozambique, Botswana, even China. However, during the early 1900's a series of events culminated in the expansion of recruitment to African men within South Africa. These events included the collapse of the Witwatersrand Native Labour Association (WNLA) as a centralized recruitment agency, the decision by the Transvaal government to repatriate around 30,000 Chinese workers, and a recession in the Cape province which led the governor to encourage recruiters to expand their operations to the Cape's 'native reserves'. We combine historical recruitment data with contemporary, geo-coded survey data to estimate the long run impact of the centralized mining recruitment on contemporary self-employment. Our research design exploits the historical borders of districts selected for recruitment, as well as the historical location of private sector recruiters prior to the re-establishment of a monopsony in 1918.
+
+## Strategic Self-employment and Family Formation
+
+**[Currently on hold]**
+
+> This was my PhD job market paper from November 2020. Unforutnately, due to a lack of access to the secure data it uses, I have not been able to progress with the project.
+
+This paper explores how the unit of taxation – individual or joint household – interacts with the event of family formation to inform parental labour supply. Individual income tax structures incentivize a more coordinated labour supply response to childbirth within married households: a joint selection out of the wage-paying sector and into self-employment. In a parallel analysis of longitudinal administrative and survey data from Canada, I show that the birth of a first child is associated with an increase in both maternal and paternal self-employment in married households; explained largely by an increase in co-employment. Co-employed mothers share many non-pecuniary characteristics with other self-employed mothers: working from home and part-time status. I develop a novel simulated instrument research design, which exploits exogenous tax variation across birth cohorts, to show that this strategic re-organization of the household is partly incentivized by income-splitting tax savings. Finding a reduced form elasticity of 0.5, equal across men and women, these savings can account for half the increase in co-employment after childbirth. Beyond tax avoidance, this paper presents income-splitting as a subsidy to the creation of flexible, tax-optimizing family firms that provide stable, long-run employment to households with family formation.

@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Neil Lloyd"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Research
+        menu:  
+          - href: research.qmd
+            text: Publications
+          - href: projects.qmd
+            text: Ongoing Projects
+      - text: Teaching
+        menu:  
+          - href: teaching.qmd
+            text: Modules
+          - href: resources.qmd
+            text: Resource Development
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: source
+
+execute:
+  freeze: auto            # true is the option to not re-render anything new. 

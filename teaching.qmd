@@ -1,0 +1,36 @@
+---
+title: "Teaching"
+format: html
+---
+
+Here are the UG and MSc modules I am connected to at Warwick. 
+
+## UG
+
+At an undergraduate level, I am module leader and (co-)lecturer for:
+
+- Econometrics 2: Microeconometrics ([EC338](https://warwick.ac.uk/fac/soc/economics/current/modules/ec338/))
+- Research Methods in Economics ([EC346](https://warwick.ac.uk/fac/soc/economics/current/modules/ec346/))
+
+I am also a seminar tutor (or supervisor) for:
+
+- Econometrics 1 ([EC226](https://warwick.ac.uk/fac/soc/economics/current/modules/ec226/))
+- Econometrics 2: Microeconometrics ([EC338](https://warwick.ac.uk/fac/soc/economics/current/modules/ec338/))
+- Data Science for Economists ([EC349](https://warwick.ac.uk/fac/soc/economics/current/modules/ec349/))
+- Research in Applied Economics ([EC331](https://warwick.ac.uk/fac/soc/economics/current/modules/ec331/))
+- Research Methods in Economics ([EC346](https://warwick.ac.uk/fac/soc/economics/current/modules/ec346/))
+
+## MSc
+
+At a graduate level, I am module leader and co-lecturer for:
+
+- Quantitative Methods: Econometrics B ([EC910](https://warwick.ac.uk/fac/soc/economics/current/modules/ec910/))
+
+I am also a supervisor for:
+
+- Dissertation ([EC959](https://warwick.ac.uk/fac/soc/economics/current/modules/ec959/))
+
+
+
+
+

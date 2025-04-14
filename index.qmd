@@ -1,0 +1,65 @@
+---
+title: "Welcome"
+image: images/neil.jpg
+about:
+  template: solana
+  image-width: 20em
+  links:
+    - icon: buildings
+      text: Warwick Page
+      url: "https://warwick.ac.uk/fac/soc/economics/staff/nlloyd/"
+    - icon: envelope-at
+      text: Warwick Email
+      url: "mailto:neil.lloyd@warwick.ac.uk"      
+    - icon: file-earmark-pdf
+      text: Academic CV
+      href: documents/academic-cv-april-2025.pdf
+    - icon: linkedin
+      text: LinkedIn
+      url: "https://linkedin.com/in/neil-lloyd-65a12834/"
+    - icon: github
+      text: GitHub
+      url: "https://github.com/neillo88"    
+    - icon: envelope-at-fill
+      text: Personal Email
+      url: "mailto:neil_lloyd@outlook.com"    
+---
+
+<!-- https://quarto.org/docs/websites/website-about.html -->
+
+<!-- https://quarto.org/docs/authoring/article-layout.html -->
+
+I am a teaching-focused Assistant Professor at the Department of Economics, University of Warwick. I joined the department shortly after finishing my PhD at Vancouver School of Economics, UBC, in August 2021.
+
+Since joining Warwick, I have specialized in the teaching of Microeconometrics and Applied Research to undergraduate and MSc students. One of the exciting things about these fields is their every changing content: new tools generate the opportunity for new research and further learning. My [teaching page](teaching.html) has more information about the courses I am currently teaching and the work I have been doing to develop more engaging [digital resources](resources.html). 
+
+Continued engagement in primary research helps me keep in touch with the latest microeconometric developments and makes me a more engaging teacher and supervisor. Right now, I am working on a projects related to xenophobia and foreign entrepreneurship in South Africa, as well as fast-food exposure and obesity in the UK. You can find out more about these projects [here](projects.html). My [research page](research.html) has the list of my current publications.  
+
+I also believe that what we should use our research skills to study and improve our academic programmes. At Warwick, I am a lead member of the Student Progression Working Group. We collect and analyze departmental data on student performance and engagement to inform the design of our programmes and curriculum. The group has been instrumental in moving the department and wider university towards more evidence-based practice. 
+
+
+
+---
+
+### Academic Experience
+
+Assistant Professor (Teaching Focused) \| Department of Economics, University of Warwick \| Aug 2021 - present
+
+Research Officer \| South Africa Labour and Development Research Unit, University of Cape Town \| Aug 2014 - Aug 2015
+
+Junior Researcher \| South Africa Labour and Development Research Unit, University of Cape Town \| Jan 2013 - Jul 2013
+
+### Academic Education
+
+PhD in Economics \| Vancouver School of Economics, University of British Columbia \| Sep 2015 - Jul 2021
+
+MA in Economics \| Vancouver School of Economics, University of British Columbia \| Sep 2013 - Jul 2014
+
+BSocSc (Honours) in Economics \| School of Economics, University of Cape Town \| Jan 2009 - Dec 2012
+
+### Teacher Training
+
+Postgraduate Award in Curriculum Development in Higher Education \| Academic Development Centre, University of Warwick \| 2024
+
+Fellowship (FHEA) \| Advanced HE \| 2022
+

@@ -1,0 +1,18 @@
+---
+title: "Research"
+format: html
+---
+
+## Journal Publications
+
+- Fortin, N., Lemieux, T., & Lloyd, N. (2023). Right-to-work laws, unionization, and wage setting, Research in Labor Economics, 50, pp. 285-326.
+
+- Fortin, N., Lemieux, T., & Lloyd, N. (2021). Labour Market Institutions and the Distribution of Wages: The Role of Spillover Effects, Journal of Labor Economics, 31:S2, S369-S412.
+
+- Maughan-Brown, B., Lloyd, N., Bor, J.& Venkataramani, A. (2016). Changes in self-reported HIV testing during South Africa's 2010/2011 national testing campaign: gains and shortfalls, Journal of the International AIDS Society, 19:1
+
+- Lloyd, N. & Leibbrandt, M. (2014). New evidence on subjective well-being and the definition of unemployment in South Africa, Development Southern Africa, 31:1, 85-105
+
+## Book Chapters
+
+- Lloyd, N. & Leibbrandt, M. (2018) "Entry into and exit from informal enterprise ownership in South Africa" in Fourie, F. (ed.), The South African Informal Sector: Creating Jobs, Reducing Poverty, HSRC Press, South Africa.
