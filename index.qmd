@@ -29,7 +29,7 @@ Since completing my PhD in Economics at the Vancouver School of Economics (UBC) 
 
 Continued engagement in primary research helps me keep in touch with the latest microeconometric developments and makes me a more engaged teacher and supervisor. Right now, I am working on a projects related to xenophobia and foreign entrepreneurship in South Africa, perceptions of employee skill demand in the UK, and the impact of fast-food exposure and adolescent obesity in the UK. You can find out more about these projects [here](projects.html). My [research page](research.html) has the list of my current publications.  
 
-Over the past two years, I have been experimenting with the creation of web-based teaching material using RStudio's [Quarto](https://quarto.org/) publishing system. This site provide some [examples](resources.html) of these projects as well as selective demonstrations. 
+Over the past two years, I have been experimenting with the creation of web-based teaching material using RStudio's [Quarto](https://quarto.org/) publishing system. I have put together some of this material into a new site: [https://neil-lloyd.github.io/digital-resources/](https://neil-lloyd.github.io/digital-resources/).
 
 ---
 
