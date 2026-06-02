@@ -1,33 +1,45 @@
 ---
-title: "Teaching"
+title: "Teaching Experience"
 format: html
 ---
 
-Here are the UG and MSc modules I am connected to at Warwick. 
+## University of St Andrews (2025-Present)
 
-## UG
+Module leadership and lecturer experience:
 
-At an undergraduate level, I am module leader and (co-)lecturer for:
+- Development Economics ([EC4419](https://www.st-andrews.ac.uk/subjects/modules/catalogue/?code=EC4419&academic_year=2025%2F6))
+- Personnel Economics ([EC4434](https://www.st-andrews.ac.uk/subjects/modules/catalogue/?code=EC4434&academic_year=2025%2F6))
+
+Seminar tutor experience:
+
+- Econometrics ([EC3301](https://www.st-andrews.ac.uk/subjects/modules/catalogue/?code=EC3301&academic_year=2025%2F6))
+- Econometric Methods and Applications ([EC5207](https://www.st-andrews.ac.uk/subjects/modules/catalogue/?code=EC5207&academic_year=2025%2F6))
+
+Supervision experience:
+
+- Dissertation in Economics ([EC5299](https://www.st-andrews.ac.uk/subjects/modules/catalogue/?code=EC5299&academic_year=2025%2F6))
+
+## University of Warwick (2021-2025)
+
+Module leadership and lecturer experience:
 
 - Econometrics 2: Microeconometrics ([EC338](https://warwick.ac.uk/fac/soc/economics/current/modules/ec338/))
 - Research Methods in Economics ([EC346](https://warwick.ac.uk/fac/soc/economics/current/modules/ec346/))
+- Quantitative Methods: Econometrics B ([EC910](https://warwick.ac.uk/fac/soc/economics/current/modules/ec910/))
 
-I am also a seminar tutor (or supervisor) for:
+Seminar tutor experience:
 
+- Microecnomics 2 ([EC202](https://warwick.ac.uk/fac/soc/economics/current/modules/ec202/))
 - Econometrics 1 ([EC226](https://warwick.ac.uk/fac/soc/economics/current/modules/ec226/))
 - Econometrics 2: Microeconometrics ([EC338](https://warwick.ac.uk/fac/soc/economics/current/modules/ec338/))
 - Data Science for Economists ([EC349](https://warwick.ac.uk/fac/soc/economics/current/modules/ec349/))
+- Quantitative Methods: Econometrics B ([EC910](https://warwick.ac.uk/fac/soc/economics/current/modules/ec910/))
+- Introductory Mathematics and Statistics ([EC961](https://warwick.ac.uk/fac/soc/economics/current/msc/induction/intro-maths-and-stats/))
+
+Supervision experience:
+
 - Research in Applied Economics ([EC331](https://warwick.ac.uk/fac/soc/economics/current/modules/ec331/))
 - Research Methods in Economics ([EC346](https://warwick.ac.uk/fac/soc/economics/current/modules/ec346/))
-
-## MSc
-
-At a graduate level, I am module leader and co-lecturer for:
-
-- Quantitative Methods: Econometrics B ([EC910](https://warwick.ac.uk/fac/soc/economics/current/modules/ec910/))
-
-I am also a supervisor for:
-
 - Dissertation ([EC959](https://warwick.ac.uk/fac/soc/economics/current/modules/ec959/))
 
 
